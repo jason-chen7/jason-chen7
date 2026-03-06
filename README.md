@@ -14,7 +14,6 @@ I'm a Computer Science student at the **University of Waterloo** (Class of 2029)
 
 - 🔭 Currently working on AI/ML projects and full-stack web apps
 - 🌱 Exploring deep learning, RESTful API design, and embedded systems
-- 🏆 USACO Silver Division (2024) — Top 400 | 2nd Place @ OneHacks III
 - 📫 Reach me at: **jy42chen@uwaterloo.ca**
 
 ---
