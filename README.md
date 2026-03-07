@@ -3,7 +3,7 @@
 CS student @ University of Waterloo (3.80 GPA) | Full-Stack Dev | AI/ML Enthusiast | Hackathon Organizer
 
 [![Email](https://img.shields.io/badge/Email-jy42chen%40uwaterloo.ca-blue?style=flat&logo=gmail)](mailto:jy42chen@uwaterloo.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jason--chen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jason-chen7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jason--chen-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/jason-chen7](https://www.linkedin.com/in/jasonchen67/))
 [![GitHub](https://img.shields.io/badge/GitHub-jason--chen7-black?style=flat&logo=github)](https://github.com/jason-chen7)
 
 ---
