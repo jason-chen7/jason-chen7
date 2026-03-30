@@ -8,7 +8,7 @@ Currently building full-stack product features at **Creatin**, a creator-brand m
 
 ## What I Build
 
-**[ConFlowGen Web App]([https://github.com/jason-chen7/conflowgen](https://collaborating.tuhh.de/w12/oeffentlich/conflowgen-web-ui))** — React + FastAPI + Python
+**[ConFlowGen Web App](https://collaborating.tuhh.de/w12/oeffentlich/conflowgen-web-ui)** — React + FastAPI + Python
 Full-stack app for configuring and visualizing container-flow simulations. Reduced setup time by 75% for the Maritime Logistics department at TUHH.
 
 **[Cortisol.AI](https://github.com/jason-chen7/Cortisol.AI)** — Python + FastAPI + React + HuBERT + PyTorch
