@@ -1,71 +1,50 @@
-# Hi, I'm Jason Chen 👋
+# Hi, I'm Jason Chen
 
-CS student @ University of Waterloo | Full-Stack Dev | AI/ML Enthusiast | Hackathon Organizer
+Computer Science student at the **University of Waterloo** (2024–2029)
 
-[![Email](https://img.shields.io/badge/Email-jy42chen%40uwaterloo.ca-blue?style=flat&logo=gmail)](mailto:jy42chen@uwaterloo.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jason--chen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jasonchen67/)
-[![GitHub](https://img.shields.io/badge/GitHub-jason--chen7-black?style=flat&logo=github)](https://github.com/jason-chen7)
+Currently building full-stack product features at **Creatin**, a creator-brand marketplace. Previously did research at **Technische Universität Hamburg**, where I helped build the [ConFlowGen](https://github.com/jason-chen7/conflowgen) web app and pushed test coverage to 99%.
 
 ---
 
-## 🧑‍💻 About Me
+## What I Build
 
-I'm a Computer Science student at the **University of Waterloo** (Class of 2029) with a passion for building full-stack applications, embedded systems, and AI-powered tools. I've shipped production software at a research lab in Hamburg, organized hackathons for 1000+ participants, and built everything from CanSAT rovers to voice stress detection agents.
+**[ConFlowGen Web App](https://github.com/jason-chen7/conflowgen)** — React + FastAPI + Python
+Full-stack app for configuring and visualizing container-flow simulations. Reduced setup time by 75% for the Maritime Logistics department at TUHH.
 
-- 🔭 Currently working on AI/ML projects and full-stack web apps
-- 🌱 Exploring deep learning, RESTful API design, and embedded systems
-- 📫 Reach me at: **jy42chen@uwaterloo.ca**
+**[Cortisol.AI](https://github.com/jason-chen7/Cortisol.AI)** — Python + FastAPI + React + HuBERT + PyTorch
+Fine-tuned HuBERT speech model to detect vocal stress and arousal from audio. 91%+ accuracy. Full-stack interface built in React.
 
----
+**ReturnClip** — SwiftUI + Next.js + Gemini Vision + PyTorch + Shopify API
+AI-powered e-commerce return verification. Evaluates product damage from photos and automates refund decisions in ~30 seconds with 95%+ accuracy. Includes a SwiftUI App Clip — no download needed.
 
-## 🛠️ Tech Stack
-
-**Languages**
-`Python` `Java` `C/C++` `JavaScript` `HTML/CSS` `Bash` `SQL` `MATLAB` `LaTeX`
-
-**Frameworks & Libraries**
-`React.js` `Flask` `FastAPI` `NumPy` `Pandas` `PyTorch`
-
-**Tools & Technologies**
-`Git` `GitHub` `Linux` `VS Code` `Postman` `SQLite` `Arduino`
-
-**Applied Skills**
-`Generative AI` `RESTful API Integration` `Chatbot Development` `2FA Authentication` `Embedded Systems`
+**Tech-Elites Rover** — Arduino + C++
+CanSAT competition rover that survives rocket launch, collects atmospheric data on descent, and roams on the ground. 99% data transmission success rate over 250+ data points.
 
 ---
 
-## 🚀 Featured Projects
+## Hackathons
 
-### 🧠 [Cortisol.AI — Voice Stress Detection](https://github.com/jason-chen7)
-> Python · FastAPI · React · HuBERT · PyTorch
-
-Fine-tuned a **HuBERT** speech model on a labeled emotion dataset to detect vocal stress and arousal from audio. Built a full PyTorch training pipeline and a polished full-stack web app to demo the model.
-
----
-
-### 🌊 [ConFlowGen Web App](https://github.com/jason-chen7)
-> React · FastAPI · Python · SQLite
-
-Full-stack application for configuring and visualizing **container-flow logistics simulations**. Adopted internally by researchers at **Technische Universität Hamburg (TUHH)**. Portable, low-setup, and production-ready.
+- Founded **Happy Hacks**, a non-profit hackathon with 1,000+ competitors and $10,000+ in prizes
+- Hosted events through **Devpost** and **MLH** (2022–2024)
+- Judged 200+ projects and gave structured technical feedback
+- **2nd Place Overall — OneHacks III**
 
 ---
 
-### 🚀 Tech-Elites Rover
-> Arduino · Python · PyTorch · Soldering
+## Skills
 
-Built a **CanSAT competition rover** designed to survive a rocket launch, collect sensor data mid-air and on the ground, and analyze it with a custom-trained AI model.
-
----
-
-## 💼 Experience
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| Researcher | Technische Universität Hamburg | Sep 2025 – Jan 2026 |
-| Software Developer | CANSAT | Sep 2022 – Present |
-| Hackathon Host | Devpost / MLH (Happy Hacks) | Sep 2022 – Jun 2024 |
-| STEM Tutor | Coding Pals | Nov 2020 – Sep 2023 |
+**Languages:** Python, Java, C/C++, JavaScript, TypeScript, HTML/CSS, SQL, Bash, MATLAB
+**Frameworks:** React.js, Next.js, FastAPI, Flask, SwiftUI, PyTorch
+**Tools:** Git, Supabase, Postman, Linux, VS Code
+**Applied:** Generative AI, RESTful APIs, ML model fine-tuning, 2FA, Chatbot Development
 
 ---
 
-*Thanks for stopping by! Feel free to reach out — always happy to chat about projects, collaborations, or opportunities.* 🙌
+## Awards
+
+- 2nd Place Overall — OneHacks III
+- USA Computing Olympiad, Silver Division (2024) — Top 400
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/jasonchen67/) · [Email](mailto:jy42chen@uwaterloo.ca)
