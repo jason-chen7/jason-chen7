@@ -8,7 +8,7 @@ Currently building full-stack product features at **Creatin**, a creator-brand m
 
 ## What I Build
 
-**[ConFlowGen Web App](https://github.com/jason-chen7/conflowgen)** — React + FastAPI + Python
+**[ConFlowGen Web App]([https://github.com/jason-chen7/conflowgen](https://collaborating.tuhh.de/w12/oeffentlich/conflowgen-web-ui))** — React + FastAPI + Python
 Full-stack app for configuring and visualizing container-flow simulations. Reduced setup time by 75% for the Maritime Logistics department at TUHH.
 
 **[Cortisol.AI](https://github.com/jason-chen7/Cortisol.AI)** — Python + FastAPI + React + HuBERT + PyTorch
@@ -16,9 +16,6 @@ Fine-tuned HuBERT speech model to detect vocal stress and arousal from audio. 91
 
 **ReturnClip** — SwiftUI + Next.js + Gemini Vision + PyTorch + Shopify API
 AI-powered e-commerce return verification. Evaluates product damage from photos and automates refund decisions in ~30 seconds with 95%+ accuracy. Includes a SwiftUI App Clip — no download needed.
-
-**Tech-Elites Rover** — Arduino + C++
-CanSAT competition rover that survives rocket launch, collects atmospheric data on descent, and roams on the ground. 99% data transmission success rate over 250+ data points.
 
 ---
 
